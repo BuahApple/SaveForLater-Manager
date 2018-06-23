@@ -7,7 +7,7 @@ Then open you chrome extension, then select *Developer Mode* then click *Load Un
 
 In case if uploaded raw extension list isn't same as the one below, change the allowed_origin of native app host manifest in main program directory called "com.buahapple.sfl.downloader.json", open it with text editor, and change the allowed_origin of extension.
 
-And therefore there will be certain webpage that cannot be saved due of blocked User Agent or unrecognized html address, that because some website just doesn't like people trying to save their pages or scrapp it which obviously out of my ability to fix it.
+And therefore there will be certain webpage that cannot be saved due of blocked User Agent, Browser Embedded web (Browser Extensions or Settings web) or just unrecognized html address, that because some website just doesn't like people trying to save their pages or scrapp it which obviously out of my ability to fix it.
 
 "allowed_origins": [
     "chrome-extension://*your new generated ID from uploaded raw extension*/"
