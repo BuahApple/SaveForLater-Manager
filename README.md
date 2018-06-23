@@ -1,23 +1,12 @@
 # SaveForLater-Manager
-chrome native messanging extension with their host program which allow the the user to back up all  webpage on their current browser window to their local computer instantly.
+chrome native messanging extension with their host program which allow their user to back up all  webpage on their current browser window to their local computer instantly.
 
-to install the program
-first open the registerin.reg with text-editor
-then set the path to:
-	@="C:\\...Path to this file folder...\\com.kamal.sfl.downloader.json"
+First of all, you must install the native app in default directory directory, DO NOT! change the directory because registry data to connect the native app and extension. 
 
-and open the com.kamal.sfl.downloader.json 
-then set the "path" section into:
-	C:\\...Path to this file and the application located...\\sfl-downloader.exe
+Then open you chrome extension, then select *Developer Mode* then click 
 
-and dont forget to add the the extension id (if theres no one) "in allowed-origins" with
-the extension id.
+In case if uploaded raw extension list isn't same as the one below, change the allowed_origin of native app host manifest in main program directory called "com.buahapple.sfl.downloader.json", open it with text editor, and change the allowed_origin of extension.
 
-
-and in the saveforlater2 folder, extract somewhere and add it into chrome through
-the extension page on browser with Developer mode enabled, then upload the raw-extension with
-the extracted saveforlater2 folder and before you do it pls check the
-
-saveforlater2 manifest.json id and make sure it match with the commented id in manifest.json
-
-extension id : //allowed_origins extension id: chrome-extension://kejkdiaeeekhienockhiokpbocdfpfof/
+"allowed_origins": [
+    "chrome-extension://*your new generated ID from uploaded raw extension*/"
+  ]
