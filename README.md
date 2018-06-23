@@ -15,4 +15,4 @@ And therefore there will be certain webpage that cannot be saved due of blocked 
 
 NOTE:
     Currently i was unabled to upload my extension to Google Chrome Extension Market, due financial issues and afterall
-    there still many feature need to be added to extension such as: Save As PDF, MHTML, CSS Fetcher, GUI adjustment, more User         Agent, And advanced vanilla browser SaveAsHTML feature, and therefore I am very sorry for lacks of professionalism, this     is     my first applicableprogram and extension, Hope you enjoy my program! and please contact me for any suggestion for this             program or if you find any bug on this program.
+    there still many feature need to be added to extension such as: Save As PDF, MHTML, CSS Fetcher, GUI adjustment, more User         Agent, And advanced vanilla browser SaveAsHTML feature, and therefore I am very sorry for lacks of professionalism, this     is     my first applicable program and extension, Hope you enjoy my program! and please contact me for any suggestion for this             program or if you find any bug on this program.
