@@ -11,7 +11,7 @@ Github: https://github.com/BuahApple
 
 彡 = Update Mark
 
-SaveForLater v.0.1
+SaveForLater v.0.1 -> v.0.2
 Experimental version, still need many adjustment for final
 version of this program, however the primary function is finally
 done and now ready for use, but not final.
