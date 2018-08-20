@@ -1,0 +1,11 @@
+//allowed_origins extension id: chrome-extension://kejkdiaeeekhienockhiokpbocdfpfof/
+
+{
+  "name": "com.buahapple.sfl.downloader",
+  "description": "The SaveForLater Downloader",
+  "path": "C:\\Program Files (x86)\\BuahApple\\SaveForLater Manager\\dist\\sfl-downloader\\sfl-downloader.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://kejkdiaeeekhienockhiokpbocdfpfof/"
+  ]
+}

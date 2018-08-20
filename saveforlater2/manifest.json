@@ -1,0 +1,18 @@
+{
+  "name": "SaveForLater Manager",
+  "version": "0.2",
+  "description": "Download all webpage on current window instantly!",
+  "icons":{"16":"favicon-16x16.png",
+		   "48":"favicon-32x32.png",
+		   "128":"favicon-150x150.png"},
+  "background": {
+    "persistent": false,
+    "scripts": ["themain.js",
+				"back.js"]
+  },
+  "browser_action": {
+    "default_title": "SaveIt!"
+  },
+  "permissions":["downloads", "nativeMessaging", "tabs"],
+  "manifest_version": 2
+}
