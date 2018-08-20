@@ -11,7 +11,7 @@ Github: https://github.com/BuahApple
 
 彡 = Update Mark
 
-SaveForLater v.0.1
+SaveForLater v.0.1 -> v.0.2
 Experimental version, still need many adjustment for final
 version of this program, however the primary function is finally
 done and now ready for use, but not final.
@@ -221,10 +221,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""
-AKHIRNYA SETELAH DUA MINGGU YANG PENUH STRESS!!
-PROGRAM SFL DOWNLOADER VER 0.2 SAYA BERHASIL
-DENGAN TAMPILAN UI BARU, MENGGUNAKAN PYQT YANG PASTI MANTAP!!!
-
-PRAISE ALLAH!!!
-"""
